@@ -53,11 +53,11 @@ npx thirdweb create contract
 You will see this : 
  💎 thirdweb v0.14.12 💎
 
-✔ What is your project named? … projname
-✔ What framework do you want to use? › Hardhat
-✔ What will be the name of your new smart contract? … MyContract
-✔ What type of contract do you want to start from? › Empty Contract
-Creating a new thirdweb contracts project in /Users/navi/projname.
+- ✔ What is your project named? … projname
+- ✔ What framework do you want to use? › Hardhat
+- ✔ What will be the name of your new smart contract? … MyContract
+- ✔ What type of contract do you want to start from? › Empty Contract
+- Creating a new thirdweb contracts project in /Users/navi/projname.
 
 Downloading files. This might take a moment.
 Installing packages. This might take a couple of minutes.
