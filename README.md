@@ -85,7 +85,8 @@ npm run deploy
 npx create next-app yourProjectName
 ```
 
-Add type script <> sdk for the development of the application 
+
+3. Add type script <> sdk for the development of the application 
 
 
 ```bash
