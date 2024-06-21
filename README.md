@@ -87,9 +87,24 @@ npx create next-app yourProjectName
 
 Add type script <> sdk for the development of the application 
 
+**OR**
+
 ```bash
-npm i thirdweb
+npm install thirdweb 
 ```
+
+**OR**
+
+```bash
+npm install thirdweb --legacy-peer-deps
+```
+
+**OR**
+
+```bash
+npm install thirdweb --legacy-peer-deps
+```
+
 
 Run the application on localhost3000  <a href="http://localhost:3000"> </a>
 
