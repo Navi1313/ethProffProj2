@@ -98,7 +98,7 @@ npm install thirdweb --legacy-peer-deps
 ```
 **OR**
 ```bash
-npm install thirdweb --legacy-peer-deps
+npm install thirdweb --force
 ```
 
 Run the application on localhost3000  <a href="http://localhost:3000"> </a>
