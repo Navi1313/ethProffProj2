@@ -1,6 +1,6 @@
 import { TransactionButton, useReadContract } from "thirdweb/react";
 import { CONTRACT } from "../utils/constants";
-import "/Users/navi/eth-proff-proj2-app/styles/cgpa.css"; 
+import "/Users/navi/eth-proff-proj2-app/styles/counter.css"; 
 import { prepareContractCall } from "thirdweb";
 import { ChangeEvent, useState } from "react";
 
