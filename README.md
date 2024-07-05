@@ -1,5 +1,5 @@
 <div align="center">
-  <h3 align="center">⛓️ EHERUIM PROFF PROJECT 2 ⛓️‍💥 </h3>
+  <h3 align="center">⛓️ MY GARAGE TOOLS SHOP ⛓️‍💥 </h3>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
