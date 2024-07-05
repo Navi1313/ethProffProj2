@@ -120,5 +120,5 @@ Read the documentation for more details <a href="https://portal.thirdweb.com/"> 
 
 ## <a name="output">⚡️ Output</a>
 
-<img width="1388" alt="Screenshot 2024-06-20 at 12 53 43 AM" src="https://github.com/Navi1313/ethProffProj2/assets/121182901/f59213d3-c373-4301-9fb0-14314576fc73">
+<img width="1440" alt="Screenshot 2024-07-05 at 7 28 34 PM" src="https://github.com/Navi1313/ethProffProj2/assets/121182901/897a714d-d857-48e3-ad2d-6564a33250a4">
 
